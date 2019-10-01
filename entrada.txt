@@ -1,0 +1,25 @@
+Juan,Perez,Rosario,19,H,M
+Cami,Ruiz,Neuquen,20,M,M
+Eze,Lopez,Rosario,45,M,Asexual
+Luis,Diaz,Rosario,9,M,M
+Manolo,Estevez,Neuquen,13,M,M
+Lucas,Fernandez,Rosario,17,H,M
+Pedro,Diaz,Buenos Aires,18,M,M
+Juan,Gonzalez,Rosario,34,M,Ambos
+Nahuel,Rodriguez,Neuquen,16,H,M
+Santiago,Diez,Rosario,14,H,H
+Sebastian,Franco,Rosario,17,H,Asexual
+Juan2,Perez,Rosario,19,H,M
+Cami2,Ruiz,Neuquen,20,M,M
+Eze2,Lopez,Rosario,45,M,Asexual
+Luis2,Diaz,Rosario,9,M,M
+Manolo2,Estevez,Neuquen,13,M,M
+Lucas2,Fernandez,Rosario,17,M,H
+Pedro2,Diaz,Buenos Aires,18,M,M
+Juan2,Gonzalez,Rosario,34,M,Ambos
+Nahuel2,Rodriguez,Neuquen,16,M,H
+Santiago2,Diez,Rosario,14,H,H
+Sebastian2,Franco,Rosario,17,H,Asexual
+Cami3,Ruiz,Neuquen,20,M,M
+parejaParaCami,Ruiz,Neuquen,20,M,Ambos
+bisexualquesobra,sobruiz,Neuquen,20,M,Ambos

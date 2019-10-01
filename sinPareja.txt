@@ -1,0 +1,224 @@
+JOSE, HIDALGO, 79, PEREZ ZELEDON, M, N - Asexual
+CARLOS RAMON, GUZMAN, 56, GARABITO, M, N - Asexual
+ELSA, DELGADO, 75, DESAMPARADOS, F, N - Asexual
+VIRGINIA, OCONITRILLO, 29, GOICOECHEA, F, N - Asexual
+JUAN, SERRANO, 58, OSA, M, N - Asexual
+AMADA, CHINCHILLA, 39, GOICOECHEA, F, N - Asexual
+CLAUDIA, ACUÑA, 48, SANTA ANA, F, N - Asexual
+ELISA EMMA, QUESADA, 55, GARABITO, F, N - Asexual
+BLANCA ROSA, VARGAS, 32, ESCAZU, F, N - Asexual
+NOE, PICADO, 15, TARRAZU, M, N - Asexual
+MARIA, MENDEZ, 90, MONTES DE OCA, F, N - Asexual
+ISAC, FERNANDEZ, 65, PEREZ ZELEDON, M, N - Asexual
+CARMEN, ORTIZ, 18, MORAVIA, F, N - Asexual
+CARMEN, RODRIGUEZ, 30, MORA, F, N - Asexual
+FRANCISCA, VEGA, 34, MONTES DE OCA, F, N - Asexual
+ZORAIDA, ARIAS, 27, ESCAZU, F, N - Asexual
+FLORA, COTO, 24, LA UNION, F, N - Asexual
+SILVIO, PEREZ, 59, MORA, M, N - Asexual
+FRANCISCA, MARIN, 59, VAZQUEZ DE CORONADO, F, N - Asexual
+BRIGIDA, VALVERDE, 42, TARRAZU, F, N - Asexual
+RAFAEL, BEJARANO, 66, ASERRI, M, N - Asexual
+AIDA, FALLAS, 50, CENTRAL, F, N - Asexual
+CARMEN, SOSA, 17, ESCAZU, F, N - Asexual
+ESTEBAN, PRADO, 59, ASERRI, M, N - Asexual
+JUAN MARIA, MORA, 70, CENTRAL, M, N - Asexual
+MARIA CRISTINA, CASTILLO, 20, CENTRAL, F, N - Asexual
+TERESA, MONTERO, 9, CORREDORES, F, N - Asexual
+NORA, GONZALEZ, 9, CENTRAL, F, M - Menor
+ROSA, CASTELLON, 25, CENTRAL, F, N - Asexual
+VIRGINIA, CALDERON, 44, ESCAZU, F, N - Asexual
+JOSE, VINDAS, 31, TIBAS, M, N - Asexual
+JUAN PEDRO, RIOS, 79, ABANGARES, M, N - Asexual
+SERVANDA, SANCHEZ, 9, CENTRAL, F, F - Menor
+ESTEBAN, RODRIGUEZ, 22, ESCAZU, M, N - Asexual
+OTILIA, ROBLES, 12, SANTA ANA, F, N - Asexual
+YOLANDA, MURILLO, 14, TIBAS, F, N - Asexual
+NIDIA, UJUETA, 12, CENTRAL, F, N - Asexual
+BERTA, MADRIGAL, 44, DESAMPARADOS, F, N - Asexual
+BLANCA, MORA, 76, DESAMPARADOS, F, N - Asexual
+ANGELINA, ARIAS, 56, CURRIDABAT, F, N - Asexual
+FLORA, CASTRO, 22, CENTRAL, F, N - Asexual
+JENNY, RUIZ, 68, CENTRAL, F, N - Asexual
+TELMA, VALVERDE, 85, PARRITA, F, N - Asexual
+GUILLERMO, DOBLES, 29, CENTRAL, M, N - Asexual
+FLORA, RETANA, 21, CENTRAL, F, N - Asexual
+FRANCISCA, MORALES, 39, CENTRAL, F, N - Asexual
+ARCELIA, HERNANDEZ, 72, CENTRAL, F, N - Asexual
+HAYDEE, SANDI, 9, CURRIDABAT, F, N - Asexual
+LASTENIA, MESEN, 46, LA UNION, F, N - Asexual
+HAYDEE, ZAMORA, 43, CENTRAL, F, N - Asexual
+MARIA, SOLIS, 62, MORAVIA, F, N - Asexual
+CARMELINA, CORDERO, 46, EL GUARCO, F, N - Asexual
+MARIA DEL CARMEN, FONSECA, 62, SAN CARLOS, F, N - Asexual
+EMILIA GLORIA, GARCIA, 87, CENTRAL, F, N - Asexual
+BETTY, CHAVES, 82, SAN ISIDRO, F, N - Asexual
+MARIA LUISA, CHAVARRIA, 84, GOICOECHEA, F, N - Asexual
+JUAN CARLOS, MORA, 73, SAN CARLOS, M, N - Asexual
+MENCIA, SOLIS, 24, GOICOECHEA, F, N - Asexual
+JUAN, BONILLA, 11, PEREZ ZELEDON, M, N - Asexual
+SILVIA, ESQUIVEL, 57, DESAMPARADOS, F, N - Asexual
+RAMON, CESPEDES, 78, MORA, M, N - Asexual
+DORA, ZAMORA, 48, MORAVIA, F, N - Asexual
+GLADYS, RODRIGUEZ, 10, DESAMPARADOS, F, N - Asexual
+COSME, NUÑEZ, 78, SAN MATEO, M, N - Asexual
+MARIA LUISA, RODRIGUEZ, 55, SANTO DOMINGO, F, N - Asexual
+MARIA CECILIA, RODRIGUEZ, 59, SANTO DOMINGO, F, N - Asexual
+AMALIA, DIAZ, 63, CURRIDABAT, F, N - Asexual
+TRINIDAD, ARIAS, 25, LEON CORTES CASTRO, M, N - Asexual
+RODRIGO, MORA, 68, GOICOECHEA, M, N - Asexual
+FULVIO ANGEL, SOTO, 36, CENTRAL, M, N - Asexual
+ZELMIRA, SANDOVAL, 66, CENTRAL, F, N - Asexual
+AZIADEE, ESTRADA, 48, CENTRAL, F, N - Asexual
+ESTRELLA, CHINCHILLA, 63, CENTRAL, F, N - Asexual
+MARTA, CORDERO, 46, TIBAS, F, N - Asexual
+JOSE JOAQUIN, MONTERO, 10, PEREZ ZELEDON, M, M - Menor
+NINFA, ALVARADO, 44, SAN CARLOS, F, N - Asexual
+EDGAR, ESQUIVEL, 81, MORAVIA, M, N - Asexual
+JUAN RAFAEL, RAMIREZ, 86, ALAJUELITA, M, N - Asexual
+BENIGNO, ABARCA, 76, LA UNION, M, N - Asexual
+BEATRIZ, RAWSON, 8, CURRIDABAT, F, A - Menor
+WALLACE STANLEY, SCHUMACHER, 36, GOICOECHEA, M, N - Asexual
+JOSEFA, MONTERO, 57, CENTRAL, F, N - Asexual
+EMMANUEL, HERNANDEZ, 64, QUEPOS, M, N - Asexual
+OLGA, RODRIGUEZ, 72, CENTRAL, F, N - Asexual
+MARIA, RODRIGUEZ, 58, CENTRAL, F, N - Asexual
+ABDON, PEREZ, 83, LA UNION, M, N - Asexual
+ARIEL, CARDENAS, 39, MATINA, M, N - Asexual
+ALICIA, CAMPOS, 41, TURRIALBA, F, N - Asexual
+ISMAEL, TORRES, 8, PEREZ ZELEDON, M, M - Menor
+FERNANDO, MATA, 51, DOTA, M, N - Asexual
+RAFAEL, CORRALES, 35, ASERRI, M, N - Asexual
+JULIO, SEGURA, 37, ACOSTA, M, N - Asexual
+ALBERTINA, ZARATE, 10, ASERRI, F, N - Asexual
+ELIDA, MONGE, 24, CENTRAL, F, N - Asexual
+INES, FUENTES, 75, CURRIDABAT, F, N - Asexual
+CARLOMAGNO, JIMENEZ, 19, PURISCAL, M, N - Asexual
+ROSARIO, QUESADA, 14, MORAVIA, F, N - Asexual
+MIGUEL, VALVERDE, 9, PURISCAL, M, A - Menor
+RAFAEL ANGEL, BRENES, 48, CENTRAL, M, N - Asexual
+ADELIA, GAMBOA, 44, PEREZ ZELEDON, F, N - Asexual
+MARCO TULIO, SOLIS, 67, TIBAS, M, N - Asexual
+ISABEL, MENDEZ, 79, LA UNION, F, N - Asexual
+DAISY, ZUÑIGA, 61, PEREZ ZELEDON, F, N - Asexual
+DULCELINA, HIDALGO, 35, DESAMPARADOS, F, N - Asexual
+OSVALDO, HIDALGO, 76, ACOSTA, M, N - Asexual
+TRINIDAD, SABORIO, 67, GOICOECHEA, F, N - Asexual
+WILLY, CASTRO, 61, CENTRAL, M, N - Asexual
+ANTONIA, BADILLA, 63, CENTRAL, F, N - Asexual
+JUAN ANTONIO, SALAZAR, 88, VAZQUEZ DE CORONADO, M, N - Asexual
+ESPIRITU, MARIN, 55, PEREZ ZELEDON, M, N - Asexual
+ESTERLINA, ZUÑIGA, 89, CENTRAL, F, N - Asexual
+CRISPIN, CHINCHILLA, 45, GUACIMO, M, N - Asexual
+ARTURO, ARAYA, 13, CENTRAL, M, N - Asexual
+HEBER, QUIROS, 45, PURISCAL, M, N - Asexual
+RAFAEL, VARGAS, 8, TURRIALBA, M, A - Menor
+ISMELDA, JIMENEZ, 84, TIBAS, F, N - Asexual
+JUANA, MORA, 88, DOTA, F, N - Asexual
+MIRIAM, FAITH, 18, MONTES DE OCA, F, N - Asexual
+JOSEFINA, HERRERA, 63, ESCAZU, F, N - Asexual
+CARMEN, BARQUERO, 14, ESTADOS UNIDOS, F, F - No hay parejas compatibles disponibles
+RAMON, MASIS, 12, CORREDORES, M, F - No hay parejas compatibles disponibles
+GUILLERMO FERNANDO, CHAVES, 13, CENTRAL, M, M - No hay parejas compatibles disponibles
+INES, SANCHEZ, 11, MONTES DE OCA, F, F - No hay parejas compatibles disponibles
+AMABLE, GONZALEZ, 14, TIBAS, F, M - No hay parejas compatibles disponibles
+MERCEDES, RODRIGUEZ, 12, TIBAS, F, A - No hay parejas compatibles disponibles
+MARTINA, ZUÑIGA, 13, VAZQUEZ DE CORONADO, F, F - No hay parejas compatibles disponibles
+REFUGIO, AGUILAR, 13, LEON CORTES CASTRO, F, F - No hay parejas compatibles disponibles
+DORA, BARBOZA, 12, DESAMPARADOS, F, M - No hay parejas compatibles disponibles
+PIEDADES, ACUÑA, 12, OSA, F, F - No hay parejas compatibles disponibles
+DORA, BERROCAL, 13, PURISCAL, F, A - No hay parejas compatibles disponibles
+CARMEN, UMAÑA, 16, TARRAZU, F, A - No hay parejas compatibles disponibles
+MARIA TERESA, MORA, 17, SANTA ANA, F, M - No hay parejas compatibles disponibles
+MARIA DEL ROSARIO, CORRALES, 16, LA UNION, F, A - No hay parejas compatibles disponibles
+CARLOS, LOPEZ, 17, PURISCAL, M, M - No hay parejas compatibles disponibles
+ANGELES, MUÑOZ, 16, PEREZ ZELEDON, F, F - No hay parejas compatibles disponibles
+WILFRIDO, AGUILAR, 17, TIBAS, M, F - No hay parejas compatibles disponibles
+ALEJANDRA, BARBOZA, 15, TIBAS, F, F - No hay parejas compatibles disponibles
+JOSE MERCEDES, GARITA, 16, GOICOECHEA, M, M - No hay parejas compatibles disponibles
+CECILIA, FILLOY, 16, GOICOECHEA, F, F - No hay parejas compatibles disponibles
+REGINA, CAMPOS, 15, COTO BRUS, F, M - No hay parejas compatibles disponibles
+HERNAN, OCAMPO, 88, SAN CARLOS, M, F - No hay parejas compatibles disponibles
+VICTOR MANUEL, SEGURA, 88, SAN CARLOS, M, F - No hay parejas compatibles disponibles
+ANTONIO, CAMBRONERO, 89, SANTA ANA, M, M - No hay parejas compatibles disponibles
+BERTA, RAMIREZ, 29, SANTA ANA, F, M - No hay parejas compatibles disponibles
+MARGARITA, MONTERO, 36, SANTA ANA, F, A - No hay parejas compatibles disponibles
+ASDRUBAL, MUÑOZ, 56, CURRIDABAT, M, M - No hay parejas compatibles disponibles
+MARIA ROSA, QUIROS, 72, CURRIDABAT, F, M - No hay parejas compatibles disponibles
+CARMEN, HERNANDEZ, 50, CURRIDABAT, F, M - No hay parejas compatibles disponibles
+AURORA, FERNANDEZ, 29, CENTRAL, F, M - No hay parejas compatibles disponibles
+MARTA, CRUZ, 82, CENTRAL, F, M - No hay parejas compatibles disponibles
+MARIA EUGENIA, SANCHO, 38, CENTRAL, F, M - No hay parejas compatibles disponibles
+RUTH EVANGELINA, ZUÑIGA, 38, CENTRAL, F, M - No hay parejas compatibles disponibles
+RUFINA, MORA, 44, CENTRAL, F, M - No hay parejas compatibles disponibles
+MARIA ELENA, MORALES, 64, CENTRAL, F, A - No hay parejas compatibles disponibles
+ANA ISABEL, GONZALEZ, 90, MONTES DE OCA, F, M - No hay parejas compatibles disponibles
+LAUREANA, CAMBRONERO, 38, MONTES DE OCA, F, M - No hay parejas compatibles disponibles
+FLOR DE MARIA, MORGAN, 35, MONTES DE OCA, F, M - No hay parejas compatibles disponibles
+VIRGINIA, DIAZ, 28, MONTES DE OCA, F, M - No hay parejas compatibles disponibles
+FLORY, RODRIGUEZ, 67, MONTES DE OCA, F, M - No hay parejas compatibles disponibles
+APOLINAR CRUZ, DIAZ, 60, ASERRI, M, F - No hay parejas compatibles disponibles
+MIGUEL, MORA, 36, ASERRI, M, F - No hay parejas compatibles disponibles
+VIRGILIO, GARRO, 76, ASERRI, M, F - No hay parejas compatibles disponibles
+GABELO, GAMBOA, 59, ASERRI, M, A - No hay parejas compatibles disponibles
+LUCIA, FERRETO, 56, POCOCI, F, A - No hay parejas compatibles disponibles
+JOSE ROGELIO, GAMBOA, 30, LEON CORTES CASTRO, M, M - No hay parejas compatibles disponibles
+ANGELA, QUESADA, 88, MORAVIA, F, A - No hay parejas compatibles disponibles
+SARA, ORDEÑANA, 63, DESAMPARADOS, F, M - No hay parejas compatibles disponibles
+NELLY, PORRAS, 56, DESAMPARADOS, F, M - No hay parejas compatibles disponibles
+DAISY, VARGAS, 54, DESAMPARADOS, F, M - No hay parejas compatibles disponibles
+AIDA, FONSECA, 86, DESAMPARADOS, F, M - No hay parejas compatibles disponibles
+ZORAIDA, CHACON, 38, DESAMPARADOS, F, M - No hay parejas compatibles disponibles
+ANIBAL, MORA, 24, GOLFITO, M, M - No hay parejas compatibles disponibles
+OMAR, CALDERON, 77, GOLFITO, M, F - No hay parejas compatibles disponibles
+CARMEN, AGUILAR, 86, ESCAZU, F, M - No hay parejas compatibles disponibles
+MARIA DEL ROSARIO, HERRERA, 85, ESCAZU, F, M - No hay parejas compatibles disponibles
+ZELMIRA, GUTIERREZ, 76, ESCAZU, F, A - No hay parejas compatibles disponibles
+BOLIVAR, GONZALEZ, 26, TURRIALBA, M, F - No hay parejas compatibles disponibles
+AURELIA, PIEDRA, 53, COTO BRUS, F, M - No hay parejas compatibles disponibles
+LUZMILDA, CERDAS, 31, COTO BRUS, F, M - No hay parejas compatibles disponibles
+JOSE MARIA, ZUÑIGA, 46, TARRAZU, M, F - No hay parejas compatibles disponibles
+ISABEL, MUÑOZ, 59, VAZQUEZ DE CORONADO, F, A - No hay parejas compatibles disponibles
+ARNOLDO, QUESADA, 87, LA UNION, M, M - No hay parejas compatibles disponibles
+MAURILIA AMPARO, PEREZ, 75, LA UNION, F, F - No hay parejas compatibles disponibles
+SARA, RODRIGUEZ, 70, NICOYA, F, F - No hay parejas compatibles disponibles
+DAISY, QUIROS, 42, TILARAN, F, F - No hay parejas compatibles disponibles
+ROSALIA, ROJAS, 87, OROTINA, F, F - No hay parejas compatibles disponibles
+CARMEN, VILLALTA, 72, NANDAYURE, F, F - No hay parejas compatibles disponibles
+CARMEN, CHINCHILLA, 25, TIBAS, F, M - No hay parejas compatibles disponibles
+MARIA CRISTINA, QUIROS, 57, TIBAS, F, M - No hay parejas compatibles disponibles
+MARIA EUGENIA, ALVARADO, 41, TIBAS, F, M - No hay parejas compatibles disponibles
+LETICIA, LOAIZA, 65, TIBAS, F, M - No hay parejas compatibles disponibles
+TEODOLINDA, BOLAÑOS, 26, PARRITA, F, A - No hay parejas compatibles disponibles
+DOMINGO, AZOFEIFA, 86, ESPARZA, M, M - No hay parejas compatibles disponibles
+SERGIO, SALAZAR, 29, GUACIMO, M, F - No hay parejas compatibles disponibles
+ANTONIA, MONGE, 61, GUACIMO, F, F - No hay parejas compatibles disponibles
+JOSE ANGEL, ALFARO, 77, UPALA, M, M - No hay parejas compatibles disponibles
+ETELVINA, MORA, 24, UPALA, F, F - No hay parejas compatibles disponibles
+CLETO, SOLIS, 78, MORA, M, M - No hay parejas compatibles disponibles
+MANUEL, PASTOR, 20, MORA, M, F - No hay parejas compatibles disponibles
+MARIA LUISA, RODRIGUEZ, 27, SANTO DOMINGO, F, M - No hay parejas compatibles disponibles
+SONIA, DIAZ, 63, SANTO DOMINGO, F, A - No hay parejas compatibles disponibles
+CLIMACO, GUZMAN, 73, SAN ISIDRO, M, M - No hay parejas compatibles disponibles
+VIRGINIA, KEITH, 90, SAN ISIDRO, F, F - No hay parejas compatibles disponibles
+GREGORIO, ARIAS, 72, TURRUBARES, M, M - No hay parejas compatibles disponibles
+LUIS RODRIGO, CALDERON, 67, CORREDORES, M, F - No hay parejas compatibles disponibles
+ABEL, MORA, 81, CORREDORES, M, A - No hay parejas compatibles disponibles
+RAMONA, CAMBRONERO, 34, SIQUIRRES, F, F - No hay parejas compatibles disponibles
+PEREGRINA, JIMENEZ, 31, SIQUIRRES, F, M - No hay parejas compatibles disponibles
+MARIA VIRGINIA, ESQUIVEL, 84, SAN RAFAEL, F, M - No hay parejas compatibles disponibles
+ROLANDO, GUTIERREZ, 71, BARVA, M, M - No hay parejas compatibles disponibles
+EUSTOLIA, MORA, 21, BUENOS AIRES, F, A - No hay parejas compatibles disponibles
+DORILA, CAMBRONERO, 31, BELEN, F, A - No hay parejas compatibles disponibles
+GONZALO, GUERRERO, 44, QUEPOS, M, F - No hay parejas compatibles disponibles
+MARIA DE LOS ANGELES, ROJAS, 85, QUEPOS, F, F - No hay parejas compatibles disponibles
+SERGIO, VENEGAS, 23, QUEPOS, M, A - No hay parejas compatibles disponibles
+MANUEL ANTONIO, ANGULO, 79, DOTA, M, F - No hay parejas compatibles disponibles
+FROILAN, VARGAS, 88, OSA, M, M - No hay parejas compatibles disponibles
+JUAN JOSE, CHAVES, 21, JIMENEZ, M, M - No hay parejas compatibles disponibles
+RAMON, GARRO, 90, EL GUARCO, M, M - No hay parejas compatibles disponibles
+ADILIA, AGUERO, 60, POAS, F, F - No hay parejas compatibles disponibles
+MARGARITA, HIDALGO, 64, SAN PABLO, F, M - No hay parejas compatibles disponibles
+LIA, ROJAS, 36, VALVERDE VEGA, F, F - No hay parejas compatibles disponibles
+PETRONILA, BARBOZA, 62, SARAPIQUI, F, A - No hay parejas compatibles disponibles
+CARLOS, MONGE, 53, MATINA, M, F - No hay parejas compatibles disponibles
