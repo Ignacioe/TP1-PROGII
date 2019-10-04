@@ -175,3 +175,70 @@ def aggPareja(persona1, persona2, conPareja):
                     persona2["nombre"] + ", " +
                     persona2["apellido"] + " - " +
                     persona1["ciudad"] + "\n")
+
+
+def test_lenGt():
+    assert lenGt([1, 2, 3, 4], 2) == True
+    assert lenGt([], 1) == False
+    assert lenGt([1, 2, 3, 4], 5) == False
+
+def test_filterEdad():
+    sinParejaTest = open("sinParejasTest.txt","w") 
+    persona1 = {
+        "nombre": "JOSE",
+        "apellido": "DELGADO",
+        "ciudad": "SANTA ANA",
+        "edad": 52,
+        "genero": "M",
+        "interes": "A"
+    }
+    persona2 = {
+        "nombre": "CARMEN",
+        "apellido": "CORRALES",
+        "ciudad": "GOICOECHEA",
+        "edad": 32,
+        "genero": "F",
+        "interes": "M"
+    }
+    persona3 = {
+        "nombre": "ADINA",
+        "apellido": "CARPIO",
+        "ciudad": "SANTA ANA",
+        "edad": 12,
+        "genero": "F",
+        "interes": "F"
+    }
+    persona4 = {
+        "nombre": "ELIAS",
+        "apellido": "ROJAS",
+        "ciudad": "SAN PABLO",
+        "edad": 9,
+        "genero": "M",
+        "interes": "A"
+    }
+    persona5 = {
+        "nombre": "VIDAL",
+        "apellido": "SAN PABLO",
+        "ciudad": "POAS",
+        "edad": 16,
+        "genero": "M",
+        "interes": "M"
+    }
+    persona6 = {
+        "nombre": "ROGELIO",
+        "apellido": "MARIN",
+        "ciudad": "SANTA ANA",
+        "edad": 16,
+        "genero": "M",
+        "interes": "N"
+    }
+    persona7 = {
+        "nombre": "EMELIDA",
+        "apellido": "GUTIERREZ",
+        "ciudad": "GOICOECHEA",
+        "edad": 84,
+        "genero": "F",
+        "interes": "M"
+    }
+
+    assert filterEdad([persona1, persona2, persona3, persona4, persona5, persona6, persona7], sinParejaTest) == [[persona3], [persona5], [persona1, persona2, persona7]]
