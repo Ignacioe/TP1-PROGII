@@ -218,8 +218,8 @@ def test_filterEdad():
     }
     persona5 = {
         "nombre": "VIDAL",
-        "apellido": "SAN PABLO",
-        "ciudad": "POAS",
+        "apellido": "POAS",
+        "ciudad": "SAN PABLO",
         "edad": 16,
         "genero": "M",
         "interes": "M"
@@ -242,3 +242,224 @@ def test_filterEdad():
     }
 
     assert filterEdad([persona1, persona2, persona3, persona4, persona5, persona6, persona7], sinParejaTest) == [[persona3], [persona5], [persona1, persona2, persona7]]
+
+def test_filterCiudad():
+    persona1 = {
+        "nombre": "JOSE",
+        "apellido": "DELGADO",
+        "ciudad": "SANTA ANA",
+        "edad": 52,
+        "genero": "M",
+        "interes": "A"
+    }
+    persona2 = {
+        "nombre": "CARMEN",
+        "apellido": "CORRALES",
+        "ciudad": "GOICOECHEA",
+        "edad": 32,
+        "genero": "F",
+        "interes": "M"
+    }
+    persona3 = {
+        "nombre": "ADINA",
+        "apellido": "CARPIO",
+        "ciudad": "SANTA ANA",
+        "edad": 12,
+        "genero": "F",
+        "interes": "F"
+    }
+    persona4 = {
+        "nombre": "ELIAS",
+        "apellido": "ROJAS",
+        "ciudad": "SAN PABLO",
+        "edad": 11,
+        "genero": "M",
+        "interes": "A"
+    }
+    persona5 = {
+        "nombre": "VIDAL",
+        "apellido": "POAS",
+        "ciudad": "SAN PABLO",
+        "edad": 16,
+        "genero": "M",
+        "interes": "M"
+    }
+    persona6 = {
+        "nombre": "ROGELIO",
+        "apellido": "MARIN",
+        "ciudad": "SANTA ANA",
+        "edad": 16,
+        "genero": "M",
+        "interes": "F"
+    }
+    persona7 = {
+        "nombre": "EMELIDA",
+        "apellido": "GUTIERREZ",
+        "ciudad": "GOICOECHEA",
+        "edad": 84,
+        "genero": "F",
+        "interes": "M"
+    }
+
+    assert filterCiudad([[persona3, persona4], [persona5, persona6], [persona1, persona2, persona7]]) == [{"SANTA ANA": [persona3], "SAN PABLO": [persona4]},
+                                                                                                          {"SAN PABLO": [persona5], "SANTA ANA": [persona6]},
+                                                                                                          {"SANTA ANA": [persona1], "GOICOECHEA": [persona2, persona7]}]
+
+def test_separarSexo():
+    persona1 = {
+        "nombre": "JOSE",
+        "apellido": "DELGADO",
+        "ciudad": "SANTA ANA",
+        "edad": 52,
+        "genero": "M",
+        "interes": "A"
+    }
+    persona2 = {
+        "nombre": "CARMEN",
+        "apellido": "CORRALES",
+        "ciudad": "GOICOECHEA",
+        "edad": 32,
+        "genero": "F",
+        "interes": "M"
+    }
+    persona3 = {
+        "nombre": "ADINA",
+        "apellido": "CARPIO",
+        "ciudad": "SANTA ANA",
+        "edad": 12,
+        "genero": "F",
+        "interes": "F"
+    }
+    persona4 = {
+        "nombre": "ELIAS",
+        "apellido": "ROJAS",
+        "ciudad": "SAN PABLO",
+        "edad": 11,
+        "genero": "M",
+        "interes": "A"
+    }
+    persona5 = {
+        "nombre": "VIDAL",
+        "apellido": "POAS",
+        "ciudad": "SAN PABLO",
+        "edad": 16,
+        "genero": "M",
+        "interes": "M"
+    }
+    persona6 = {
+        "nombre": "ROGELIO",
+        "apellido": "MARIN",
+        "ciudad": "SANTA ANA",
+        "edad": 16,
+        "genero": "M",
+        "interes": "F"
+    }
+    persona7 = {
+        "nombre": "EMELIDA",
+        "apellido": "GUTIERREZ",
+        "ciudad": "GOICOECHEA",
+        "edad": 84,
+        "genero": "F",
+        "interes": "M"
+    }
+
+    assert separarSexo([persona3]) == [[], [], [], [persona3], [], []]
+    assert separarSexo([persona4]) == [[], [], [persona4], [], [], []]
+    assert separarSexo([persona5]) == [[persona5], [], [], [], [], []]
+    assert separarSexo([persona6]) == [[], [persona6], [], [], [], []]
+    assert separarSexo([persona1]) == [[], [], [persona1], [], [], []]
+    assert separarSexo([persona2, persona7]) == [[], [], [], [], [persona2, persona7], []]
+    assert separarSexo([persona1, persona2, persona3, persona4, persona5, persona6, persona7]) == [[persona5], [persona6], [persona1, persona4], [persona3], [persona2, persona7], []]
+
+def test_parejasHomo():
+    conParejaTest = open("conParejasTest.txt","w") 
+    persona1 = {
+        "nombre": "JOSE",
+        "apellido": "DELGADO",
+        "ciudad": "SANTA ANA",
+        "edad": 52,
+        "genero": "M",
+        "interes": "M"
+    }
+    persona2 = {
+        "nombre": "JOSE FRANCISCO",
+        "apellido": "DUARTE",
+        "ciudad": "SANTA ANA",
+        "edad": 70,
+        "genero": "M",
+        "interes": "M"
+    }
+    persona3 = {
+        "nombre": "RECAREDO",
+        "apellido": "MURILLO",
+        "ciudad": "SANTA ANA",
+        "edad": 40,
+        "genero": "M",
+        "interes": "M"
+    }
+    persona4 = {
+        "nombre": "ELIAS",
+        "apellido": "ROJAS",
+        "ciudad": "SANTA ANA",
+        "edad": 20,
+        "genero": "M",
+        "interes": "M"
+    }
+    
+    assert parejasHomo([persona1, persona2, persona3, persona4], conParejaTest) == []
+    assert parejasHomo ([persona1, persona2, persona3], conParejaTest) == [persona3]
+
+def test_parejasHetero():
+    conParejaTest = open("conParejasTest.txt","w")
+    persona1 = {
+        "nombre": "JOSE",
+        "apellido": "DELGADO",
+        "ciudad": "SANTA ANA",
+        "edad": 52,
+        "genero": "M",
+        "interes": "F"
+    }
+    persona2 = {
+        "nombre": "CARMEN",
+        "apellido": "CORRALES",
+        "ciudad": "SANTA ANA",
+        "edad": 32,
+        "genero": "F",
+        "interes": "M"
+    }
+    persona3 = {
+        "nombre": "ALEJANDRO",
+        "apellido": "ARAYA",
+        "ciudad": "SANTA ANA",
+        "edad": 42,
+        "genero": "M",
+        "interes": "F"
+    }
+    persona4 = {
+        "nombre": "OFELIA",
+        "apellido": "AVALOS",
+        "ciudad": "SANTA ANA",
+        "edad": 47,
+        "genero": "F",
+        "interes": "M"
+    }
+    persona5 = {
+        "nombre": "VIDAL",
+        "apellido": "POAS",
+        "ciudad": "SANTA ANA",
+        "edad": 19,
+        "genero": "M",
+        "interes": "F"
+    }
+    persona6 = {
+        "nombre": "FLORA",
+        "apellido": "ESTRADA",
+        "ciudad": "SANTA ANA",
+        "edad": 32,
+        "genero": "F",
+        "interes": "M"
+    }
+
+    assert parejasHetero([persona1, persona3, persona5], [persona2, persona4, persona6], conParejaTest) == ([], [])
+    assert parejasHetero([persona1, persona3], [persona2, persona4, persona6], conParejaTest) == ([], [persona6])
+    assert parejasHetero([persona1, persona3, persona5], [], conParejaTest) == ([persona1, persona3, persona5], [])
