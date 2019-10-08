@@ -138,17 +138,8 @@ def test_ingreso():
     ingreso("ingresoTesting.txt", "conParejaIngresoTesting.txt", "sinParejaIngresoTesting.txt")
     conParejaTesting = open("conParejaIngresoTesting.txt", "r")
     sinParejaTesting = open("sinParejaIngresoTesting.txt", "r")
+    sinParejaTestingExpected = open("sinParejaTestingExpected.txt", "r")
     assert (conParejaTesting.read() == "")
-    assert (sinParejaTesting.read() == """Pablo, Antuna, Rosario, 20, M, F - No hay parejas compatibles disponibles
-Lucas, Bachur, Rosario, 20, M, F - No hay parejas compatibles disponibles
-Nahuel, Blando, Rosario, 20, M, F - No hay parejas compatibles disponibles
-Tomas, Castro, Rosario, 20, M, F - No hay parejas compatibles disponibles
-Blas, Barbagelata, Rosario, 20, M, F - No hay parejas compatibles disponibles
-Lautaro, Garavano, Rosario, 20, M, F - No hay parejas compatibles disponibles
-Lautaro, Cerruti, Rosario, 20, M, F - No hay parejas compatibles disponibles
-Giuliano, Regolo, Rosario, 20, M, F - No hay parejas compatibles disponibles
-Alesandro, Regolo, Rosario, 20, M, F - No hay parejas compatibles disponibles
-Tomas, Scalbi, Rosario, 20, M, F - No hay parejas compatibles disponibles
-""")
+    assert (sinParejaTesting.read() == sinParejaTestingExpected.read())
     conParejaTesting.close()
     sinParejaTesting.close()
