@@ -151,4 +151,4 @@ Alesandro, Regolo, Rosario, 20, M, F - No hay parejas compatibles disponibles
 Tomas, Scalbi, Rosario, 20, M, F - No hay parejas compatibles disponibles
 """)
     conParejaTesting.close()
-    nParejaTesting.close()
+    sinParejaTesting.close()
