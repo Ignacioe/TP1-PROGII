@@ -1,0 +1,7 @@
+[{"nombre": "JOSE", "apellido": "DELGADO", "ciudad": "SANTA ANA", "edad": 52, "genero": "M", "interes": "A"},
+{"nombre": "CARMEN", "apellido": "CORRALES", "ciudad": "GOICOECHEA", "edad": 32, "genero": "F", "interes": "M"},
+{"nombre": "ADINA", "apellido": "CARPIO", "ciudad": "SANTA ANA", "edad": 12, "genero": "F", "interes": "F"},
+{"nombre": "ELIAS", "apellido": "ROJAS", "ciudad": "SAN PABLO", "edad": 9, "genero": "M", "interes": "A"},
+{"nombre": "VIDAL", "apellido": "POAS", "ciudad": "SAN PABLO", "edad": 16, "genero": "M", "interes": "M"},
+{"nombre": "ROGELIO", "apellido": "MARIN", "ciudad": "SANTA ANA", "edad": 16, "genero": "M", "interes": "F"},
+{"nombre": "EMELIDA", "apellido": "GUTIERREZ", "ciudad": "GOICOECHEA", "edad": 84, "genero": "F", "interes": "M"}]
