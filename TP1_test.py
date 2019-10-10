@@ -42,97 +42,21 @@ def test_separarSexo():
                                                                                                                  []]
 
 def test_parejasHomo():
-    conParejaTest = open("conParejasTest.txt","w") 
-    persona1 = {
-        "nombre": "JOSE",
-        "apellido": "DELGADO",
-        "ciudad": "SANTA ANA",
-        "edad": 52,
-        "genero": "M",
-        "interes": "M"
-    }
-    persona2 = {
-        "nombre": "JOSE FRANCISCO",
-        "apellido": "DUARTE",
-        "ciudad": "SANTA ANA",
-        "edad": 70,
-        "genero": "M",
-        "interes": "M"
-    }
-    persona3 = {
-        "nombre": "RECAREDO",
-        "apellido": "MURILLO",
-        "ciudad": "SANTA ANA",
-        "edad": 40,
-        "genero": "M",
-        "interes": "M"
-    }
-    persona4 = {
-        "nombre": "ELIAS",
-        "apellido": "ROJAS",
-        "ciudad": "SANTA ANA",
-        "edad": 20,
-        "genero": "M",
-        "interes": "M"
-    }
-    
-    assert parejasHomo([persona1, persona2, persona3, persona4], conParejaTest) == []
-    assert parejasHomo ([persona1, persona2, persona3], conParejaTest) == [persona3]
+    conParejaTest = open("conParejasTest.txt","w")
+    texto = open("parejasHomoTesting.txt")
+    persona = eval(texto.read())
+
+    assert parejasHomo([persona[0], persona[1], persona[2], persona[3]], conParejaTest) == []
+    assert parejasHomo ([persona[0], persona[1], persona[2]], conParejaTest) == [persona[2]]
 
 def test_parejasHetero():
     conParejaTest = open("conParejasTest.txt","w")
-    persona1 = {
-        "nombre": "JOSE",
-        "apellido": "DELGADO",
-        "ciudad": "SANTA ANA",
-        "edad": 52,
-        "genero": "M",
-        "interes": "F"
-    }
-    persona2 = {
-        "nombre": "CARMEN",
-        "apellido": "CORRALES",
-        "ciudad": "SANTA ANA",
-        "edad": 32,
-        "genero": "F",
-        "interes": "M"
-    }
-    persona3 = {
-        "nombre": "ALEJANDRO",
-        "apellido": "ARAYA",
-        "ciudad": "SANTA ANA",
-        "edad": 42,
-        "genero": "M",
-        "interes": "F"
-    }
-    persona4 = {
-        "nombre": "OFELIA",
-        "apellido": "AVALOS",
-        "ciudad": "SANTA ANA",
-        "edad": 47,
-        "genero": "F",
-        "interes": "M"
-    }
-    persona5 = {
-        "nombre": "VIDAL",
-        "apellido": "POAS",
-        "ciudad": "SANTA ANA",
-        "edad": 19,
-        "genero": "M",
-        "interes": "F"
-    }
-    persona6 = {
-        "nombre": "FLORA",
-        "apellido": "ESTRADA",
-        "ciudad": "SANTA ANA",
-        "edad": 32,
-        "genero": "F",
-        "interes": "M"
-    }
+    texto = open("parejasHeteroTesting.txt")
+    persona = eval(texto.read())
 
-    assert parejasHetero([persona1, persona3, persona5], [persona2, persona4, persona6], conParejaTest) == ([], [])
-    assert parejasHetero([persona1, persona3], [persona2, persona4, persona6], conParejaTest) == ([], [persona6])
-    assert parejasHetero([persona1, persona3, persona5], [], conParejaTest) == ([persona1, persona3, persona5], [])
+    assert parejasHetero([persona[0], persona[2], persona[4]], [persona[1], persona[3], persona[5]], conParejaTest) == ([], [])
+    assert parejasHetero([persona[0], persona[2]], [persona[1], persona[3], persona[5]], conParejaTest) == ([], [persona[5]])
+    assert parejasHetero([persona[0], persona[2], persona[4]], [], conParejaTest) == ([persona[0], persona[2], persona[4]], [])
 
 def test_ingreso():
     ingreso("ingresoTesting.txt", "conParejaIngresoTesting.txt", "sinParejaIngresoTesting.txt")

@@ -1,0 +1,6 @@
+[{"nombre": "JOSE", "apellido": "DELGADO", "ciudad": "SANTA ANA", "edad": 52, "genero": "M", "interes": "F"},
+{"nombre": "CARMEN", "apellido": "CORRALES", "ciudad": "SANTA ANA", "edad": 32, "genero": "F", "interes": "M"},
+{"nombre": "ALEJANDRO", "apellido": "ARAYA", "ciudad": "SANTA ANA", "edad": 42, "genero": "M", "interes": "F"},
+{"nombre": "OFELIA", "apellido": "AVALOS", "ciudad": "SANTA ANA", "edad": 47, "genero": "F", "interes": "M"},
+{"nombre": "VIDAL", "apellido": "POAS", "ciudad": "SANTA ANA", "edad": 19, "genero": "M", "interes": "F"},
+{"nombre": "FLORA", "apellido": "ESTRADA", "ciudad": "SANTA ANA", "edad": 32, "genero": "F", "interes": "M"}]

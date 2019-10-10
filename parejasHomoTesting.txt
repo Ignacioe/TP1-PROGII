@@ -1,0 +1,4 @@
+[{"nombre": "JOSE", "apellido": "DELGADO", "ciudad": "SANTA ANA", "edad": 52, "genero": "M", "interes": "M"},
+{"nombre": "JOSE FRANCISCO", "apellido": "DUARTE", "ciudad": "SANTA ANA", "edad": 70, "genero": "M", "interes": "M"},
+{"nombre": "RECAREDO", "apellido": "MURILLO", "ciudad": "SANTA ANA", "edad": 40, "genero": "M", "interes": "M"},
+{"nombre": "ELIAS", "apellido": "ROJAS", "ciudad": "SANTA ANA", "edad": 20, "genero": "M", "interes": "M"}]
